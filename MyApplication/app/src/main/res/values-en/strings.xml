@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">StoryAppByDavid</string>
+    <string name="text_welcome">Welcome To StoryApp Application</string>
+    <string name="text_login">Please Log on your account</string>
+    <string name="text_register">Please Register your account</string>
+    <string name="not_registered">Don\'t have account?</string>
+    <string name="already_registered">Have an account?</string>
+    <string name="error_login">Email or password is wrong</string>
+    <string name="photo_story">Story Photo</string>
+    <string name="error_blank">Please fill all the fields</string>
+    <string name="go_register" >Register</string>
+    <string name="go_login">Login</string>
+    <string name="nama">Name</string>
+    <string name="creator">Story Maker :</string>
+    <string name="deskripsi">"Description : "</string>
+    <string name="password_error">Minimum password is 8 character</string>
+    <string name="add_story">Add Story</string>
+    <string name="logout">Logout</string>
+    <string name="back">Back</string>
+    <string name="retry">Try Again</string>
+    <string name="gallery">Gallery</string>
+    <string name="camera">Camera</string>
+    <string name="upload">Upload Story</string>
+
+</resources>

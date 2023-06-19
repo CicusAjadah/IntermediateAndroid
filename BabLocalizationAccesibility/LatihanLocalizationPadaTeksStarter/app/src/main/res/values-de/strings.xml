@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Produktdetails</string>
+    <string name="description">Coole Laufschuhe in limitierter Auflage. Das Tragen dieser Schuhe verbessert Ihr Verständnis beim Erlernen des Programmierens.  Waren sind immer da. Erhältlich in verschiedenen Größen und Farben. Bitte bestellen Sie gleichermaßen!</string>
+    <string name="buy">Jetzt Kaufen!</string>
+    <string name="size">42</string>
+    <string name="rating">4.5 (1.249)</string>
+    <string name="color">Braun</string>
+    <string name="date">Hochgeladen 5 Aug 2021</string>
+    <string name="store">Dicodierungsspeicher</string>
+    <string name="name">Laufschuhe</string>
+    <string name="price">€ 12,38</string>
+</resources>

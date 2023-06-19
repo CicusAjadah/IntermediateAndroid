@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StoryAppByDavid</string>
+    <string name="text_welcome">Wilkommen in StoryApp</string>
+    <string name="text_login">Bitte loggen Sie sich in Ihr Konto ein</string>
+    <string name="text_register">Bitte registrieren Sie Ihr Konto</string>
+    <string name="not_registered">Sie haben noch kein Konto?</string>
+    <string name="already_registered">Haben Sie ein Konto?</string>
+    <string name="error_login">E-Mail-Adresse oder Passwort ist falsch</string>
+    <string name="photo_story">Story-Foto</string>
+    <string name="error_blank">Bitte füllen Sie alle Felder aus</string>
+    <string name="nama">Name</string>
+    <string name="creator">Geschichtener-Ersteller :</string>
+    <string name="deskripsi">Beschreibung :</string>
+    <string name="password_error">Passwort mit mindestens 8 Buchstaben</string>
+    <string name="add_story">Story hinzufügen</string>
+    <string name="back">Rückgabe</string>
+    <string name="retry">Wiederholen</string>
+</resources>

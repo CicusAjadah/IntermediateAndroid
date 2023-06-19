@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StoryAppByDavid</string>
+    <string name="text_welcome">أهلًا وسهلًا</string>
+    <string name="text_login">الرجاء تسجيل الدخول</string>
+    <string name="text_register">يرجى تسجيل حسابك</string>
+    <string name="not_registered">ليس لديك حساب حتى الآن؟</string>
+    <string name="already_registered">هل لديك حساب بالفعل؟</string>
+    <string name="error_login">البريد الإلكتروني أو كلمة المرور غير صحيحة</string>
+    <string name="photo_story">صورة القصة</string>
+    <string name="error_blank">يرجى ملء جميع المربعات</string>
+    <string name="nama">اسم</string>
+    <string name="creator">منشئ القصة</string>
+    <string name="deskripsi">وصف</string>
+    <string name="password_error">كلمة مرور لا تقل عن 8 أحرف</string>
+    <string name="add_story">إضافة قصة</string>
+    <string name="back">أعاد</string>
+    <string name="retry">حاول مرة أخرى</string>
+</resources>

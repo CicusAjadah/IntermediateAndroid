@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name" translatable="false">StoryAppByDavid</string>
+    <string name="text_welcome">Selamat Datang Di Aplikasi StoryApp</string>
+    <string name="text_login">Silahkan Login</string>
+    <string name="text_register">Silahkan Daftarkan Akun Anda</string>
+    <string name="not_registered">Belum Punya Akun?</string>
+    <string name="already_registered">Sudah Punya Akun?</string>
+    <string name="error_login">Email atau password salah</string>
+    <string name="photo_story">Foto Story</string>
+    <string name="error_blank">Mohon isi semua field</string>
+    <string name="go_register" translatable="false">Register</string>
+    <string name="go_login" translatable="false">Login</string>
+    <string name="nama">Nama</string>
+    <string name="creator">Pembuat Story :</string>
+    <string name="deskripsi">Deskripsi : </string>
+    <string name="password_error">Password minimal 8 huruf</string>
+    <string name="add_story">Tambah Cerita</string>
+    <string name="logout" translatable="false">Logout</string>
+    <string name="back">Kembali</string>
+    <string name="retry">Coba lagi</string>
+    <string name="gallery" translatable="false">Gallery</string>
+    <string name="camera" translatable="false">Camera</string>
+    <string name="upload" translatable="false">Upload Story</string>
+    <string name="title_activity_story_maps" translatable="false">StoryMapsActivity</string>
+
+</resources>
